@@ -49,11 +49,4 @@
 
 ---
 
-### 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://github.com/sanjay-bandaru06/sanjay-bandaru06/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>  
-
----
-
 ✨ *“Code is not just logic, it’s creativity in motion — let’s build something extraordinary together!”* 🚀  
