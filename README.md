@@ -13,7 +13,7 @@
 ---
 
 ### 🌐 Connect with Me  
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/sanjay-bandaru-468a79264/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.leetcode.com/sanjay_bandaru" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="https://www.hackerrank.com/22a91a05k9" target="_blank"><img src="https://img.shields.io/badge/Hackerrank-%232EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
@@ -25,7 +25,7 @@
 
 ### 🛠️ Languages & Tools  
 <p align="center">  
-<img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,express,mongodb,java,python,js,html,css,bootstrap,mysql,spring,git,linux,figma" />  
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,java,python,js,html,css,bootstrap,mysql,spring,git,linux,figma" />  
 </p>  
 
 ---
@@ -45,6 +45,13 @@
 ### 🏆 Achievements  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sanjay-bandaru06&theme=onedark&margin-w=15&margin-h=15&row=1&column=6" />
+</p>  
+
+---
+
+### 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://github.com/sanjay-bandaru06/sanjay-bandaru06/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>  
 
 ---
