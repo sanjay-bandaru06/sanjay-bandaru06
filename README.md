@@ -31,20 +31,13 @@
 ---
 
 ### 📊 GitHub Stats 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjay-bandaru06&show_icons=true&theme=tokyonight" alt="stats" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay-bandaru06&layout=compact&theme=tokyonight" alt="langs" />
-</p> 
+<!-- <p align="center"> 
+  <img src="https://github-readme-stats-git-master-sanjay-bandarus-projects.vercel.app/api?username=sanjay-bandaru06&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" /> 
+  <img src="https://github-readme-stats-git-master-sanjay-bandarus-projects.vercel.app/api/top-langs/?username=sanjay-bandaru06&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
+</p> -->
 
 <p align="center"> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjay-bandaru06&theme=tokyonight" alt="streak" /> 
-</p>
-
----
-
-### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy-nine-eta.vercel.app/?username=sanjay-bandaru06&theme=onedark&row=1&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true&cache_seconds=1800" alt="GitHub Trophies" />
 </p>
 
 ---
