@@ -44,8 +44,8 @@
 
 ### 🏆 Achievements  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanjay-bandaru06&theme=onedark&margin-w=15&margin-h=15&row=1&column=6" />
-</p>  
+  <img src="https://github-profile-trophy-nine-eta.vercel.app/?username=sanjay-bandaru06&theme=onedark&row=1&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true&cache_seconds=1800" />
+</p> 
 
 ---
 
