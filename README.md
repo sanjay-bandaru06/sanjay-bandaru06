@@ -30,14 +30,14 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://YOUR-STATS.vercel.app/api?username=sanjay-bandaru06&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-  <img src="https://YOUR-STATS.vercel.app/api/top-langs/?username=sanjay-bandaru06&layout=compact&theme=tokyonight" />
-</p>  
+### 📊 GitHub Stats 
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjay-bandaru06&show_icons=true&theme=tokyonight" alt="stats" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay-bandaru06&layout=compact&theme=tokyonight" alt="langs" />
+</p> 
 
-<p align="center">
-  <img src="https://YOUR-STREAK.vercel.app/?user=sanjay-bandaru06&theme=tokyonight" />
+<p align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjay-bandaru06&theme=tokyonight" alt="streak" /> 
 </p>
 
 ---
