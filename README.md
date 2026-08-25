@@ -66,13 +66,13 @@
 
 | Area                   |      Level      | Expertise                                                                      |
 | :--------------------- | :-------------: | :----------------------------------------------------------------------------- |
-| **Machine Learning**   | 🟣 Intermediate | Classification and predictive modeling using supervised learning techniques    |
-| **Data Analysis**      | 🟣 Intermediate | Data cleaning, transformation, and exploratory analysis using Pandas and NumPy |
-| **Model Development**  | 🟣 Intermediate | Training and evaluating models with Scikit-learn                               |
-| **AI Applications**    | 🟣 Intermediate | Integrating LLM APIs such as Gemini and Groq Llama                             |
-| **Computer Vision**    |   🔵 Beginner   | OCR extraction and image-based text processing                                 |
-| **Speech Processing**  |   🔵 Beginner   | Speech-to-text using local inference models                                    |
-| **Data Visualization** | 🟣 Intermediate | Charts and reports using Matplotlib                                            |
+| **Machine Learning**   | Intermediate | Classification and predictive modeling using supervised learning techniques    |
+| **Data Analysis**      | Intermediate | Data cleaning, transformation, and exploratory analysis using Pandas and NumPy |
+| **Model Development**  | Intermediate | Training and evaluating models with Scikit-learn                               |
+| **AI Applications**    | Intermediate | Integrating LLM APIs such as Gemini and Groq Llama                             |
+| **Computer Vision**    | Beginner  | OCR extraction and image-based text processing                                 |
+| **Speech Processing**  | Beginner   | Speech-to-text using local inference models                                    |
+| **Data Visualization** | Intermediate | Charts and reports using Matplotlib                                            |
 
 </div>
 
