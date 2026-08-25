@@ -14,29 +14,6 @@
 <img src="https://img.shields.io/badge/India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 <br/><br/>
-<a href="https://github.com/sanjay-bandaru06">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;width=700&amp;height=45&amp;lines=Architecting+Full-Stack+%26+Mobile+Applications;Specializing+in+React.js%2C+React+Native+%26+Node.js;Engineering+APIs+with+Express.js+%26+Java+Spring+Boot;Exploring+AI%2FML-Integrated+Software+Systems" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Degree-B.Tech%20Computer%20Science-4F46E5?style=flat-square&amp;logo=googlescholar&amp;logoColor=white" alt="Degree" />
-  <img src="https://img.shields.io/badge/CGPA-8.34%2F10-7C3AED?style=flat-square" alt="CGPA" />
-  <img src="https://img.shields.io/badge/Location-India-6366F1?style=flat-square&amp;logo=googlemaps&amp;logoColor=white" alt="Location" />
-  <a href="https://portfolio-ten-snowy-81.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live_Site-6D28D9?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/sanjay-bandaru-468a79264/"><img src="https://img.shields.io/badge/LinkedIn-Sanjay_Bandaru-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:sanjaybandaru06@gmail.com"><img src="https://img.shields.io/badge/Email-sanjaybandaru06%40gmail.com-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/sanjay-bandaru06"><img src="https://img.shields.io/badge/GitHub-sanjay--bandaru06-312E81?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanjay-bandaru06&amp;label=PROFILE%20VIEWS&amp;color=7C3AED&amp;style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/sanjay-bandaru06?label=Followers&amp;style=flat-square&amp;color=6366F1" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/sanjay-bandaru06?label=Total%20Stars&amp;style=flat-square&amp;color=8B5CF6" alt="Stars" />
-</p>
-
-</div>
 
 ---
 
