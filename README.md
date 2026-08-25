@@ -241,7 +241,7 @@
 
 | Provider          | Certification                                     |                                                               Badge                                                               |
 | :---------------- | :------------------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------: |
-| **Oracle**        | Oracle Certified Foundations Associate — Database |   ![Oracle](https://img.shields.io/badge/Oracle-Foundations%20Associate-F80000?style=flat-square\&logo=oracle\&logoColor=white)   |
+| **Oracle**        | Oracle Certified Foundations Associate Database |   ![Oracle](https://img.shields.io/badge/Oracle-Foundations%20Associate-F80000?style=flat-square\&logo=oracle\&logoColor=white)   |
 | **Cisco**         | Python Essentials                                 |       ![Cisco](https://img.shields.io/badge/Cisco-Python%20Essentials-1BA0D7?style=flat-square\&logo=cisco\&logoColor=white)      |
 | **IT Specialist** | JavaScript                                        | ![JavaScript](https://img.shields.io/badge/IT%20Specialist-JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black) |
 | **IT Specialist** | HTML & CSS                                        |    ![HTML](https://img.shields.io/badge/IT%20Specialist-HTML%20%26%20CSS-E34F26?style=flat-square\&logo=html5\&logoColor=white)   |
@@ -296,35 +296,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sanjay-bandaru06&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjay-bandaru06&bg_color=0F172A&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sanjay-bandaru06/sanjay-bandaru06/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
-
-</div>
-
----
 
 ## 🎯 Current Focus & Roadmap
 
@@ -379,7 +350,7 @@ current_focus:
 
  
 
-<a href="https://sanjay-bandaru06.vercel.app/">
+<a href="https://portfolio-ten-snowy-81.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 
