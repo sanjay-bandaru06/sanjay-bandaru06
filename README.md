@@ -216,14 +216,6 @@
 
 **Skills:** React Native · JavaScript · API Integration · Git · Application Development
 
-### Business Development Intern — Seoak
-
-* Supported business development activities and research.
-* Assisted with professional documentation.
-* Supported coordination and communication across teams.
-
-**Skills:** Communication · Research · Business Development · Team Collaboration
-
 ---
 
 ## 🏆 Achievements
