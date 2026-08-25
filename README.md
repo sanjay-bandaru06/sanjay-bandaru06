@@ -17,17 +17,12 @@
 
 ---
 
-### 🏛️ About Me
-
-I am a **Computer Science Engineering student and Software Engineer** with a strong foundation in full-stack web development, cross-platform mobile engineering, and applied AI/ML. My engineering approach is centered on writing clean, maintainable code, understanding the full lifecycle of a product, and building software that is practical, scalable, and user-focused.
-
-- ⚙️ **Core Engineering**: Proficient in **React.js, React Native (Expo), Node.js, Express.js, Java Spring Boot, and MongoDB/MySQL**.
-- 🌐 **Full-Stack &amp; Mobile Development**: Building end-to-end web platforms and cross-platform mobile clients with REST API architectures.
-- 🧠 **AI &amp; Machine Learning**: Working with classification models, data analysis pipelines, and exploring LLM-integrated application development.
-- 🚀 **Product Engineering Mindset**: Translating real-world problems into functional, well-structured software solutions.
-- 🎯 **Open To**: Full-Time Software Development Engineering (SDE) roles, Full Stack / Mobile Engineering opportunities, and QA/SDET positions.
-
----
+### 👨‍💻 About Me  
+- 🌱 I’m currently working on *Full Stack Web Development* (React.js, Node.js, Express.js, MongoDB).  
+- 📱 Exploring *Mobile Application Development* with React Native Expo.  
+- 🤝 Open to collaborating on *real-time web & mobile projects*.  
+- 💬 Ask me about *Full Stack Development, React Native, and Scalable Web Apps*.  
+- ⚡ Fun fact: I love blending the latest tech to create seamless *Web + Mobile Experiences*.
 
 ### 🛠️ Technical Stack &amp; Tooling
 
