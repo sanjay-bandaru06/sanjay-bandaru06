@@ -20,7 +20,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/sanjay-bandaru-468a79264/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:sanjaybandaru06@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://sanjay-bandaru06.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://portfolio-ten-snowy-81.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://www.leetcode.com/sanjay_bandaru" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="https://www.hackerrank.com/22a91a05k9" target="_blank"><img src="https://img.shields.io/badge/Hackerrank-%232EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sanjaybandaru99" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
