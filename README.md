@@ -1,334 +1,410 @@
+Yes. The main issue is that your README uses **several different purple shades**, mixed alignment styles, and some sections are visually inconsistent. I’d standardize it around a **dark navy + violet + indigo** palette and make the tables, badges, stats, and headings visually consistent.
+
+I also noticed your current `CGPA` says **8.34**, while the resume information I have from earlier lists **8.15**. Keep whichever is actually correct.
+
+Below is a cleaned-up version with:
+
+* Consistent **dark navy / violet / indigo** colors
+* Better centered sections
+* Consistent table alignment
+* Cleaner badge colors
+* Better GitHub stats sizing
+* Consistent spacing
+* Fixed HTML entities where unnecessary
+* Cleaner footer/header
+* More professional overall appearance
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:312E81&height=180&section=header&text=Sanjay%20Manikanta%20Bandaru&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React.js+%7C+React+Native+%7C+Node.js;Software+Engineering+Enthusiast;AI+%26+Machine+Learning+Explorer;Building+Web+%26+Mobile+Applications" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:4C1D95,100:6D28D9&height=190&section=header&text=Sanjay%20Manikanta%20Bandaru&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech-CSE-6D28D9?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-<img src="https://img.shields.io/badge/CGPA-8.34%2F10-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/2022--2026-312E81?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;React.js+%7C+React+Native+%7C+Node.js;Software+Engineering+Enthusiast;AI+%26+Machine+Learning+Explorer;Building+Web+%26+Mobile+Applications" alt="Typing SVG" />
+</a>
 
 <br/><br/>
 
----
+<img src="https://img.shields.io/badge/B.Tech-CSE-4C1D95?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+<img src="https://img.shields.io/badge/CGPA-8.34%2F10-6D28D9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/2022--2026-312E81?style=for-the-badge" />
+<img src="https://img.shields.io/badge/India-0F172A?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
-### 👨‍💻 About Me  
-- 🌱 I’m currently working on *Full Stack Web Development* (React.js, Node.js, Express.js, MongoDB).  
-- 📱 Exploring *Mobile Application Development* with React Native Expo.  
-- 🤝 Open to collaborating on *real-time web & mobile projects*.  
-- 💬 Ask me about *Full Stack Development, React Native, and Scalable Web Apps*.  
-- ⚡ Fun fact: I love blending the latest tech to create seamless *Web + Mobile Experiences*.
+<br/><br/>
 
-### 🛠️ Technical Stack &amp; Tooling
-
-<div align="center">
-
-| Domain | Technologies &amp; Frameworks |
-| :--- | :--- |
-| **Languages** | `JavaScript` `TypeScript` `Java` `Python` `SQL` `HTML5` `CSS3` |
-| **Frontend &amp; Mobile** | `React.js` `React Native (Expo)` `Redux` `Tailwind CSS` `Bootstrap` |
-| **Backend &amp; APIs** | `Node.js` `Express.js` `Java Spring Boot` `REST APIs` |
-| **Databases** | `MongoDB` `MySQL` `Mongoose` `Hibernate / JPA` |
-| **Cloud, DevOps &amp; Tooling** | `Git` `GitHub` `Linux CLI` `Vercel` `Figma` `Postman` |
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=js,ts,java,py,react,reactnative,nodejs,express,spring,mongodb,mysql,tailwind,redux,bootstrap,git,github,linux,figma,vercel" alt="Tech Stack Icons" />
+<a href="https://github.com/sanjay-bandaru06">
+<img src="https://img.shields.io/github/followers/sanjay-bandaru06?style=for-the-badge&logo=github&label=Followers&color=6D28D9" />
+</a>
+&nbsp;
+<a href="https://github.com/sanjay-bandaru06?tab=repositories">
+<img src="https://img.shields.io/github/stars/sanjay-bandaru06?style=for-the-badge&logo=github&label=Stars&color=4C1D95" />
+</a>
 
 </div>
 
 ---
 
-### 🧠 AI / ML Expertise
+## 👨‍💻 About Me
 
-| Domain | Proficiency | Technical Scope &amp; Implementation Details |
-| :--- | :---: | :--- |
-| **Machine Learning** | `Intermediate` | Classification and predictive modeling using supervised learning techniques in Python. |
-| **Data Analysis** | `Intermediate` | Data cleaning, transformation, and exploratory data analysis using Pandas and NumPy. |
-| **Model Development** | `Intermediate` | Training and evaluating models with Scikit-learn, including performance benchmarking. |
-| **AI Application Development** | `Intermediate` | Integrating LLM APIs (Gemini, Groq Llama 3) into desktop and web applications. |
-| **Computer Vision** | `Beginner` | OCR extraction pipelines and image-based text processing. |
-| **Speech Processing** | `Beginner` | Speech-to-text integration using local inference models. |
-| **Data Visualization** | `Intermediate` | Building visual reports and charts using Matplotlib. |
+* 🌱 Currently working on **Full Stack Web Development** using React.js, Node.js, Express.js, and MongoDB.
+* 📱 Exploring **Mobile Application Development** with React Native and Expo.
+* 🤝 Open to collaborating on **real-world web and mobile applications**.
+* 💬 Ask me about **Full Stack Development, React Native, REST APIs, and scalable applications**.
+* ⚡ I enjoy combining modern technologies to create seamless **Web + Mobile Experiences**.
 
 ---
 
-### 💼 Featured Projects
+## 🛠️ Technical Stack
+
+<div align="center">
+
+|         Domain        | Technologies                                                      |
+| :-------------------: | :---------------------------------------------------------------- |
+|     **Languages**     | JavaScript · TypeScript · Java · Python · SQL · HTML5 · CSS3      |
+| **Frontend & Mobile** | React.js · React Native · Expo · Redux · Tailwind CSS · Bootstrap |
+|   **Backend & APIs**  | Node.js · Express.js · Spring Boot · REST APIs                    |
+|     **Databases**     | MongoDB · MySQL · Mongoose · Hibernate / JPA                      |
+| **Tools & Platforms** | Git · GitHub · Linux · Vercel · Figma · Postman                   |
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=js,ts,java,py,react,reactnative,nodejs,express,spring,mongodb,mysql,tailwind,redux,bootstrap,git,github,linux,figma,vercel" alt="Technical Skills" />
+
+</div>
+
+---
+
+## 🧠 AI / ML Expertise
+
+<div align="center">
+
+| Area                   |      Level      | Expertise                                                                      |
+| :--------------------- | :-------------: | :----------------------------------------------------------------------------- |
+| **Machine Learning**   | 🟣 Intermediate | Classification and predictive modeling using supervised learning techniques    |
+| **Data Analysis**      | 🟣 Intermediate | Data cleaning, transformation, and exploratory analysis using Pandas and NumPy |
+| **Model Development**  | 🟣 Intermediate | Training and evaluating models with Scikit-learn                               |
+| **AI Applications**    | 🟣 Intermediate | Integrating LLM APIs such as Gemini and Groq Llama                             |
+| **Computer Vision**    |   🔵 Beginner   | OCR extraction and image-based text processing                                 |
+| **Speech Processing**  |   🔵 Beginner   | Speech-to-text using local inference models                                    |
+| **Data Visualization** | 🟣 Intermediate | Charts and reports using Matplotlib                                            |
+
+</div>
+
+---
+
+## 💼 Featured Projects
 
 <details>
 <summary><b>01. Notify Nation — Full-Stack Job Platform</b></summary>
+
 <br/>
 
-> **A centralized job platform enabling users to discover, track, and manage job applications through a unified dashboard.**
+> A centralized job platform that helps users discover, track, and manage job applications through a unified dashboard.
 
-| Dimension | Details |
-| :--- | :--- |
-| **Stack** | React.js, Node.js, Express.js, MongoDB |
-| **Scale** | Designed to organize and track large volumes of job listings and applicant records |
-| **Performance** | REST API–driven architecture with efficient MongoDB query patterns |
-| **Security** | Backend request validation and controlled database access |
-| **Impact** | Simplifies job discovery and centralizes application tracking for users |
-| **Repository** | [github.com/sanjay-bandaru06](https://github.com/sanjay-bandaru06) |
+| Dimension        | Details                                               |
+| :--------------- | :---------------------------------------------------- |
+| **Stack**        | React.js · Node.js · Express.js · MongoDB             |
+| **Architecture** | REST API-driven full-stack architecture               |
+| **Database**     | MongoDB with structured application schemas           |
+| **Security**     | Backend validation and controlled database access     |
+| **Impact**       | Centralized job discovery and application tracking    |
+| **Repository**   | [GitHub Profile](https://github.com/sanjay-bandaru06) |
 
-**Highlights:**
-- Built a REST API layer connecting the React frontend to an Express/MongoDB backend.
-- Designed an applicant-tracking dashboard for organizing job listings and statuses.
-- Structured schema models in MongoDB to support flexible job and applicant data.
+### Highlights
+
+* Built REST APIs connecting the React frontend with Express and MongoDB.
+* Designed an applicant-tracking dashboard.
+* Structured MongoDB schemas for job and applicant information.
 
 </details>
 
 <details>
 <summary><b>02. Exam Seating Management System</b></summary>
+
 <br/>
 
-> **A web and mobile application that automates examination seating arrangements and student allocation.**
+> A web and mobile application that automates examination seating arrangements and student allocation.
 
-| Dimension | Details |
-| :--- | :--- |
-| **Stack** | React.js, React Native, Node.js, Express.js, MongoDB, Tailwind CSS |
-| **Scale** | Handles structured student and examination datasets across multiple sessions |
-| **Performance** | API-driven architecture shared across web and mobile clients |
-| **Security** | Server-side validation and controlled data access to student records |
-| **Impact** | Reduces manual effort involved in planning and managing exam seating |
-| **Repository** | [github.com/sanjay-bandaru06](https://github.com/sanjay-bandaru06) |
+| Dimension        | Details                                                                 |
+| :--------------- | :---------------------------------------------------------------------- |
+| **Stack**        | React.js · React Native · Node.js · Express.js · MongoDB · Tailwind CSS |
+| **Architecture** | Shared backend for web and mobile applications                          |
+| **Performance**  | API-driven architecture                                                 |
+| **Security**     | Server-side validation and controlled student data access               |
+| **Impact**       | Reduces manual effort in examination seating management                 |
+| **Repository**   | [GitHub Profile](https://github.com/sanjay-bandaru06)                   |
 
-**Highlights:**
-- Built a shared backend consumed by both the web dashboard and mobile client.
-- Implemented seat allocation logic to automate manual scheduling work.
-- Styled a responsive UI using Tailwind CSS for both platforms.
+### Highlights
+
+* Built a shared backend consumed by web and mobile clients.
+* Implemented automated seat allocation logic.
+* Designed responsive interfaces using Tailwind CSS.
 
 </details>
 
 <details>
 <summary><b>03. JARVIS — Desktop AI Assistant</b></summary>
+
 <br/>
 
-> **A Windows desktop AI assistant combining voice interaction, OCR, and LLM-based reasoning into a single application.**
+> A Windows desktop AI assistant combining voice interaction, OCR, and LLM-based reasoning.
 
-| Dimension | Details |
-| :--- | :--- |
-| **Stack** | Python, PyQt6, faster-whisper, OCR, Groq Llama 3, Google Gemini, llama.cpp |
-| **Scale** | Desktop-based assistant combining local inference with API-based reasoning |
-| **Performance** | Local speech-to-text via faster-whisper alongside cloud LLM calls |
-| **Security** | Runs within a controlled local application environment |
-| **Impact** | Unifies voice, OCR, and conversational AI into a single usable assistant |
-| **Repository** | [github.com/sanjay-bandaru06](https://github.com/sanjay-bandaru06) |
+| Dimension        | Details                                                                 |
+| :--------------- | :---------------------------------------------------------------------- |
+| **Stack**        | Python · PyQt6 · faster-whisper · OCR · Groq Llama · Gemini · llama.cpp |
+| **Architecture** | Local inference combined with cloud-based LLM APIs                      |
+| **Speech**       | faster-whisper                                                          |
+| **Interface**    | PyQt6 desktop application                                               |
+| **Impact**       | Combines voice, OCR, and conversational AI                              |
+| **Repository**   | [GitHub Profile](https://github.com/sanjay-bandaru06)                   |
 
-**Highlights:**
-- Integrated faster-whisper for local speech-to-text transcription.
-- Combined OCR-based text extraction with LLM-driven responses.
-- Built a PyQt6 desktop interface for real-time interaction.
+### Highlights
+
+* Integrated faster-whisper for speech-to-text.
+* Added OCR-based text extraction.
+* Integrated LLM APIs for intelligent responses.
+* Built a PyQt6 desktop interface.
 
 </details>
 
 <details>
 <summary><b>04. Bankruptcy Classification — ML Project</b></summary>
+
 <br/>
 
-> **A machine learning project analyzing financial indicators to classify bankruptcy risk using supervised learning.**
+> A machine learning project that analyzes financial indicators to classify bankruptcy risk.
 
-| Dimension | Details |
-| :--- | :--- |
-| **Stack** | Python, Pandas, NumPy, Scikit-learn, Matplotlib |
-| **Scale** | Structured financial dataset with multiple risk-indicator features |
-| **Performance** | Model evaluation via standard classification metrics |
-| **Security** | Local, self-contained data processing workflow |
-| **Impact** | Demonstrates applied classification modeling on real financial data |
-| **Repository** | [github.com/sanjay-bandaru06](https://github.com/sanjay-bandaru06) |
+| Dimension           | Details                                               |
+| :------------------ | :---------------------------------------------------- |
+| **Stack**           | Python · Pandas · NumPy · Scikit-learn · Matplotlib   |
+| **Data Processing** | Data cleaning and feature engineering                 |
+| **Modeling**        | Supervised classification                             |
+| **Evaluation**      | Standard classification metrics                       |
+| **Impact**          | Demonstrates practical financial risk classification  |
+| **Repository**      | [GitHub Profile](https://github.com/sanjay-bandaru06) |
 
-**Highlights:**
-- Performed data cleaning and feature engineering on financial datasets.
-- Trained and evaluated classification models using Scikit-learn.
-- Visualized model performance and feature relationships using Matplotlib.
+### Highlights
+
+* Cleaned and prepared financial datasets.
+* Performed feature engineering.
+* Trained classification models using Scikit-learn.
+* Visualized model performance using Matplotlib.
 
 </details>
 
 <details>
 <summary><b>05. Jayaram Hero MotoCorp — Business Website</b></summary>
+
 <br/>
 
-> **A responsive business website showcasing Hero motorcycles with a clean, product-focused browsing experience.**
+> A responsive business website showcasing Hero motorcycles with a clean product-focused experience.
 
-| Dimension | Details |
-| :--- | :--- |
-| **Stack** | React.js, HTML, CSS, JavaScript |
-| **Scale** | Product-focused business website with multiple vehicle listings |
-| **Performance** | Component-based frontend built for responsive rendering |
-| **Security** | Standard frontend best practices |
-| **Impact** | Improved the online presentation of motorcycle products for the business |
-| **Repository** | [github.com/sanjay-bandaru06](https://github.com/sanjay-bandaru06) |
+| Dimension        | Details                                               |
+| :--------------- | :---------------------------------------------------- |
+| **Stack**        | React.js · HTML · CSS · JavaScript                    |
+| **Architecture** | Component-based frontend                              |
+| **Design**       | Responsive desktop and mobile layout                  |
+| **Impact**       | Improved online presentation of motorcycle products   |
+| **Repository**   | [GitHub Profile](https://github.com/sanjay-bandaru06) |
 
-**Highlights:**
-- Built reusable React components for product listings.
-- Designed a responsive layout across desktop and mobile breakpoints.
-- Delivered a clean, business-ready frontend for client use.
+### Highlights
+
+* Built reusable React components.
+* Designed responsive layouts.
+* Created a clean product-focused interface.
 
 </details>
 
 ---
 
-### 🏢 Professional Experience
+## 🏢 Professional Experience
 
-#### **Full Stack Development Intern** | *Technical Hub Pvt Ltd*
-`June 2025 — July 2025` • *India*
+### Full Stack Development Intern — Technical Hub Pvt Ltd
 
-- Worked on application development using React Native, building and modifying reusable components.
-- Practiced API integration, application debugging, and mobile workflow development.
-- Collaborated on development tasks in a professional team environment.
+`June 2025 — July 2025` · India
+
+* Worked on application development using React Native.
+* Built and modified reusable components.
+* Practiced API integration and application debugging.
+* Collaborated on development tasks within a professional team.
 
 **Skills:** React Native · JavaScript · API Integration · Git · Application Development
 
-#### **Business Development Intern** | *Seoak*
+### Business Development Intern — Seoak
 
-- Supported business development activities, research, and professional documentation.
-- Assisted with coordination and communication across teams.
+* Supported business development activities and research.
+* Assisted with professional documentation.
+* Supported coordination and communication across teams.
 
 **Skills:** Communication · Research · Business Development · Team Collaboration
 
 ---
 
-### 🏆 Achievements
+## 🏆 Achievements
 
 <div align="center">
 
-| Recognition | Details &amp; Scope of Impact |
-| :--- | :--- |
-| **Top 5 Finalist** | Code Carnival &amp; Code Golf — JNTU Vizianagaram |
-| **Competitive Programming** | 800+ problems solved across LeetCode, GeeksforGeeks, and HackerRank |
-| **Technical Workshops** | Conducted workshops on HTML, CSS, and JavaScript fundamentals |
-| **Photography Runner-up** | Photomania Photography Contest |
-| **Community Engagement** | Leo Club member, participated in food and grocery donation drives |
-| **GitHub Activity** | 475+ contributions in the past year |
+| Recognition                    | Details                                                             |
+| :----------------------------- | :------------------------------------------------------------------ |
+| 🥇 **Top 5 Finalist**          | Code Carnival & Code Golf — JNTU Vizianagaram                       |
+| 💻 **Competitive Programming** | 800+ problems solved across LeetCode, GeeksforGeeks, and HackerRank |
+| 🎓 **Technical Workshops**     | Conducted workshops on HTML, CSS, and JavaScript                    |
+| 📸 **Photography Runner-up**   | Photomania Photography Contest                                      |
+| 🤝 **Community Engagement**    | Leo Club member and participated in donation drives                 |
+| 🔥 **GitHub Activity**         | 475+ contributions in the past year                                 |
 
 </div>
 
 ---
 
-### 📜 Certifications &amp; Continuous Learning
+## 📜 Certifications
 
 <div align="center">
 
-| Provider | Credential | Verification Badge |
-| :--- | :--- | :--- |
-| **Oracle** | Oracle Certified Foundations Associate — Database | ![Oracle](https://img.shields.io/badge/Oracle-Foundations%20Associate-F80000?style=flat-square&amp;logo=oracle&amp;logoColor=white) |
-| **Cisco** | Python Essentials | ![Cisco](https://img.shields.io/badge/Cisco-Python%20Essentials-1BA0D7?style=flat-square&amp;logo=cisco&amp;logoColor=white) |
-| **IT Specialist** | JavaScript | ![JS](https://img.shields.io/badge/IT%20Specialist-JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black) |
-| **IT Specialist** | HTML &amp; CSS | ![HTML](https://img.shields.io/badge/IT%20Specialist-HTML%20%26%20CSS-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white) |
+| Provider          | Certification                                     |                                                               Badge                                                               |
+| :---------------- | :------------------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------: |
+| **Oracle**        | Oracle Certified Foundations Associate — Database |   ![Oracle](https://img.shields.io/badge/Oracle-Foundations%20Associate-F80000?style=flat-square\&logo=oracle\&logoColor=white)   |
+| **Cisco**         | Python Essentials                                 |       ![Cisco](https://img.shields.io/badge/Cisco-Python%20Essentials-1BA0D7?style=flat-square\&logo=cisco\&logoColor=white)      |
+| **IT Specialist** | JavaScript                                        | ![JavaScript](https://img.shields.io/badge/IT%20Specialist-JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black) |
+| **IT Specialist** | HTML & CSS                                        |    ![HTML](https://img.shields.io/badge/IT%20Specialist-HTML%20%26%20CSS-E34F26?style=flat-square\&logo=html5\&logoColor=white)   |
 
 </div>
 
 ---
 
-### ⚡ Competitive Programming Profiles
+## ⚡ Competitive Programming
 
 <div align="center">
 
-<a href="https://www.leetcode.com/sanjay_bandaru" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black" alt="LeetCode" />
-</a>
-&nbsp;
-<a href="https://auth.geeksforgeeks.org/user/sanjaybandaru99" target="_blank">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&amp;logo=geeksforgeeks&amp;logoColor=white" alt="GeeksforGeeks" />
-</a>
-&nbsp;
-<a href="https://www.hackerrank.com/22a91a05k9" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&amp;logo=hackerrank&amp;logoColor=black" alt="HackerRank" />
-</a>
-&nbsp;
-<a href="https://www.codechef.com/users/sanjay_bandaru" target="_blank">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&amp;logo=codechef&amp;logoColor=white" alt="CodeChef" />
+<a href="https://www.leetcode.com/sanjay_bandaru">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
 </a>
 
+ 
+
+<a href="https://auth.geeksforgeeks.org/user/sanjaybandaru99">
+<img src="https://img.shields.io/badge/GeeksforGeeks-22C55E?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+</a>
+
+ 
+
+<a href="https://www.hackerrank.com/22a91a05k9">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
+</a>
+
+ 
+
+<a href="https://www.codechef.com/users/sanjay_bandaru">
+<img src="https://img.shields.io/badge/CodeChef-6D28D9?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+</a>
+
 </div>
 
 ---
 
-### 📊 GitHub Analytics &amp; Repository Metrics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjay-bandaru06&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;icon_color=818CF8&amp;text_color=E2E8F0&amp;include_all_commits=true&amp;count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay-bandaru06&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;text_color=E2E8F0" width="48%" alt="Top Languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=sanjay-bandaru06&show_icons=true&hide_border=true&bg_color=0F172A&title_color=A78BFA&icon_color=8B5CF6&text_color=E2E8F0&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjay-bandaru06&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=7C3AED&amp;fire=6366F1&amp;currStreakLabel=A78BFA" width="96%" alt="GitHub Streak Stats" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay-bandaru06&layout=compact&hide_border=true&bg_color=0F172A&title_color=A78BFA&text_color=E2E8F0" width="49%" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjay-bandaru06&hide_border=true&background=0F172A&ring=8B5CF6&fire=6D28D9&currStreakLabel=A78BFA&sideLabels=E2E8F0&dates=94A3B8" width="90%" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sanjay-bandaru06&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=4" width="100%" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=sanjay-bandaru06&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="GitHub Trophies" />
 
 </div>
 
 ---
 
-### 📈 Contribution Activity Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjay-bandaru06&amp;theme=tokyo-night&amp;bg_color=0D1117&amp;color=7C3AED&amp;line=6366F1&amp;point=A78BFA&amp;hide_border=true" width="100%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjay-bandaru06&bg_color=0F172A&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph" />
 
 </div>
 
 ---
 
-### 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sanjay-bandaru06/sanjay-bandaru06/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/sanjay-bandaru06/sanjay-bandaru06/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
 
 </div>
 
 ---
 
-### 🎯 Current Focus &amp; Roadmap
+## 🎯 Current Focus & Roadmap
 
 ```yaml
 current_focus:
   learning:
-    - Advanced React.js &amp; React Native (Expo)
-    - Backend Development with Node.js &amp; Java Spring Boot
-    - AI &amp; Machine Learning fundamentals
-    - Software Testing &amp; Automation
+    - Advanced React.js & React Native
+    - Backend Development with Node.js & Spring Boot
+    - AI & Machine Learning
+    - Software Testing & Automation
+
   building:
     - Full Stack Web Applications
     - Cross-Platform Mobile Applications
-    - AI-powered Application Prototypes
+    - AI-Powered Applications
+
   exploring:
-    - Cloud Technologies &amp; Deployment Pipelines
-    - Product Engineering Practices
-    - Test Automation Frameworks
+    - Cloud Technologies & Deployment
+    - Product Engineering
+    - Test Automation
+
   open_to:
-    - Full-time Software Development Engineer (SDE) Roles
-    - Full Stack &amp; Cross-Platform Mobile Engineering Positions
+    - Full-Time Software Development Engineer Roles
+    - Full Stack Development Positions
+    - Mobile Engineering Opportunities
     - QA / SDET Opportunities
-    - AI/ML Projects &amp; Open Source Collaboration
+    - AI/ML Projects
+    - Open Source Collaboration
 ```
 
 ---
 
-### 📫 Connect With Me
+## 📫 Connect With Me
 
 <div align="center">
 
-<a href="mailto:sanjaybandaru06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/sanjay-bandaru-468a79264/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
-<a href="https://github.com/sanjay-bandaru06"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
-<a href="https://sanjay-bandaru06.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" /></a>
+<a href="mailto:sanjaybandaru06@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
+ 
+
+<a href="https://www.linkedin.com/in/sanjay-bandaru-468a79264/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+ 
+
+<a href="https://github.com/sanjay-bandaru06">
+<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+ 
+
+<a href="https://sanjay-bandaru06.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
 
 </div>
 
@@ -336,9 +412,12 @@ current_focus:
 
 <div align="center">
 
-✨ *"Code is not just logic, it's creativity in motion — let's build something extraordinary together!"* 🚀
+### ✨ Let's Build Something Great Together
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=2,8,14,20&amp;height=120&amp;section=footer" width="100%" />
+*Code is not just logic — it's creativity in motion.* 🚀
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:4C1D95,100:0F172A&height=120&section=footer" width="100%" />
 
 </div>
-
