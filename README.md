@@ -54,7 +54,7 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=js,ts,java,py,react,reactnative,nodejs,express,spring,mongodb,mysql,tailwind,redux,bootstrap,git,github,linux,figma,vercel" alt="Technical Skills" />
+<img src="https://skillicons.dev/icons?i=js,java,py,react,nodejs,express,mongodb,mysql,bootstrap,git,github,figma,vercel" alt="Technical Skills" />
 
 </div>
 
