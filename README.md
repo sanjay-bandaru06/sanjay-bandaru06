@@ -1,18 +1,3 @@
-Yes. The main issue is that your README uses **several different purple shades**, mixed alignment styles, and some sections are visually inconsistent. I’d standardize it around a **dark navy + violet + indigo** palette and make the tables, badges, stats, and headings visually consistent.
-
-I also noticed your current `CGPA` says **8.34**, while the resume information I have from earlier lists **8.15**. Keep whichever is actually correct.
-
-Below is a cleaned-up version with:
-
-* Consistent **dark navy / violet / indigo** colors
-* Better centered sections
-* Consistent table alignment
-* Cleaner badge colors
-* Better GitHub stats sizing
-* Consistent spacing
-* Fixed HTML entities where unnecessary
-* Cleaner footer/header
-* More professional overall appearance
 
 <div align="center">
 
